@@ -1,0 +1,27 @@
+// Use the gear_dropdown.png screenshot as a style guide
+.dropdown-subtitle {
+    color: $dark-gray;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+ul #gear-dropdown{
+    margin: 20px;
+}
+
+ul #gear-dropdown > li{
+}
+
+.editions {
+    border-bottom: 1px solid $light-gray;
+    > li{
+        padding-top: 5px;
+    }
+}
+
+.help{
+    > li{
+        padding-top: 5px;
+    }
+}
+
